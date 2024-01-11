@@ -5,8 +5,8 @@
 
 #include <SDL2/SDL.h>
 
-#define S3L_RESOLUTION_X 800
-#define S3L_RESOLUTION_Y 640
+#define S3L_RESOLUTION_X 1700
+#define S3L_RESOLUTION_Y 870
 #define RES_CO S3L_RESOLUTION_X *S3L_RESOLUTION_Y
 #define S3L_PIXEL_FUNCTION drawPixel
 #include "./small3dlib.h"
